@@ -1,0 +1,11 @@
+{
+    "domain": "power_graphbar",
+    "name": "Graphicbar Power Coordinates Generator",
+    "documentation": "https://github.com/JGAguado/Power_Graphbar",
+    "issue_tracker": "https://github.com/JGAguado/Power_Graphbar/issues",
+    "dependencies": [],
+    "codeowners": ["@JGAguado"],
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "1.0"
+}
