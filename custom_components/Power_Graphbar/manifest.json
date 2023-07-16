@@ -3,7 +3,7 @@
     "name": "Graphicbar Power Coordinates Generator",
     "documentation": "https://github.com/JGAguado/Power_Graphbar",
     "issue_tracker": "https://github.com/JGAguado/Power_Graphbar/issues",
-    "dependencies": [],
+    "config_flow": true,
     "codeowners": ["@JGAguado"],
     "requirements": [],
     "iot_class": "cloud_polling",
